@@ -1,2 +1,2 @@
 # CRtools
-Statistical tools for clinical research.
+Statistical tools for clinical research .
